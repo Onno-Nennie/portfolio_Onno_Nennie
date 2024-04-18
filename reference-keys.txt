@@ -1,2 +1,6 @@
-hello-world
-driehoek
+index
+portfolio
+introduction
+education
+plan
+results
